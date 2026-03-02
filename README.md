@@ -4,14 +4,6 @@
 
 This is a simple waitlist management system for restaurants, retail stores, or any other business that need visitors to line up for services. It allows visitors to add themselves to a waitlist at a kiosk or on their own mobile device. Multiple staffs can handle the waitlist simultaneously. The system will notify visitors when it's their turn.
 
-Introduction video: https://www.youtube.com/watch?v=p1OwccZgKsA
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=p1OwccZgKsA">
-    <img src="./video-thumbnail.png" height="400">
-  </a>
-</p>
-
 Line Me Up is built with [Supabase](https://supabase.io) as the backend and [refinejs](https://refine.dev) as the frontend.
 
 ## Installation for Local Testing
